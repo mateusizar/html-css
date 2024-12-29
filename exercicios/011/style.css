@@ -1,0 +1,18 @@
+body { background-image: linear-gradient(to right , rgb(140, 140, 236), blue
+     ) ;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: lighter;
+text-align: justify; 
+
+
+}
+#principal { font-style: italic;
+color: rgb(250, 111, 111);
+
+
+}
+h1 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: rgb(74, 74, 234); }
+
+p {text-indent: 30px;}
